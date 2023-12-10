@@ -207,6 +207,7 @@ public class Main {
             }
 
             if (exit.equals("exit"))
+                System.out.println("thank you")
                 break;
         }
 
