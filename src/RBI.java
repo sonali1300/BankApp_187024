@@ -3,7 +3,7 @@ public interface RBI {
     float maturityAmount = 0.0f;
     float loanAmount = 0.0f;
     int count = 0;
-    Customer customer = new Customer();
+    //Customer customer = new Customer();
 
     public void depositMoney(float cash);
 

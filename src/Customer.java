@@ -1,7 +1,7 @@
     public class Customer {
         String customerName, customerEmail, customerAddress, customerGender, customerAadhar, customerPhone;
         float balance;
-        Customer customer = new Customer();
+        //Customer customer = new Customer();
 
         public Customer() {
             this.balance = 0.0f;
